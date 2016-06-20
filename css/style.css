@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    width: 800px;
+    margin-left: 200px;
+    line-height: 27px;
+}
+
+.header {
+    margin-bottom: 41px;
+    text-align: center;
+}
+
+h4 {
+    margin-left: 125px;
+    padding-bottom: 6px;
+    font-size: 20px;
+}
+
+.menu {
+    margin-left: 132px;
+    display: block;
+    list-style: none;
+    line-height: 26px;
+}
+
+.menu:last-child {
+    padding-bottom: 10px;
+}
+
+.checkbox {
+    /*display: none;*/
+    margin-right: 10px;
+}
+
+/*.checkbox label:before {*/
+     /*border-radius: 3px;*/
+ /*}*/
+
+.button {
+    margin-top: 39px;
+    margin-left: 265px;
+    padding: 13px 41px;
+    font-size: 19px;
+}
